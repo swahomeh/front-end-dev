@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# responsive front-end
+Project repository
