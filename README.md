@@ -1,2 +1,2 @@
-# responsive front-end
+# Responsive frontend Design
 Project repository
